@@ -12,7 +12,7 @@ export default {
         white: "#fff",
         dark: "#08090A",
         nav_link: "#28224B",
-        para: "#7C86A1",
+        para: "#546285",
         icon: "#808DA6",
       },
     },
