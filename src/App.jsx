@@ -4,7 +4,7 @@ import Path from "./routes/Path";
 
 const App = () => {
   return (
-    <div className="font-body h-[3000px]">
+    <div className="font-body">
       <Navbar />
       <Path />
     </div>
