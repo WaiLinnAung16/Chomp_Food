@@ -35,7 +35,7 @@ const HowItWork = () => {
     },
   ];
   return (
-    <Container maxW="1200px" my="20">
+    <Container maxW="1200px" py="20">
       <Center>
         <Text color="primary.500" fontSize="5xl" fontWeight="bold">
           How its works.

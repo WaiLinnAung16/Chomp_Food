@@ -2,6 +2,7 @@ import React from "react";
 import Hero from "../components/Home/Hero";
 import Products from "../components/Home/Products";
 import HowItWork from "../components/Home/HowItWork";
+import OurMenu from "../components/Home/OurMenu";
 
 const Home = () => {
   window.scrollTo({
@@ -13,6 +14,7 @@ const Home = () => {
       <Hero />
       <Products />
       <HowItWork />
+      <OurMenu />
     </div>
   );
 };
